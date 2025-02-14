@@ -19,7 +19,7 @@ Automating infrastructure provisioning for better scalability
 
 
 🌐 Let’s Connect
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/thilosh)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thilosh)
 
 📫 Get in Touch
 I’d love to collaborate and learn together! Reach out at Thiloshvr@gmail.com.
