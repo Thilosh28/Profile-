@@ -5,12 +5,14 @@ My profile
 Hello! I’m V.R Thilosh Aswanth Raman, a cloud computing enthusiast passionate about mastering AWS and Azure. I am currently deepening my knowledge in cloud technologies, exploring infrastructure management, automation, and cloud-native solutions. My goal is to build scalable, efficient, and secure cloud environments.
 
 🌟 Current Focus
+
 🔹 Learning: AWS & Azure Cloud Technologies
 🔹 Exploring: Cloud infrastructure, automation, and security best practices
 🔹 Projects:
 
 Deploying cloud-based applications on AWS & Azure
 Automating infrastructure provisioning for better scalability
+
 🛠 Skills
 💻 Operating Systems: Linux
 ☁ Cloud Platforms: AWS, Azure
